@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="session5" />
+        <module name="server" />
+        <module name="session14" />
+        <module name="solutions5" />
+        <module name="solutions5 (1) (dk.via)" />
+        <module name="mvvm_rmi" />
+        <module name="mvvm_sockets" />
+        <module name="client" />
+        <module name="session6" />
+        <module name="session10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client" target="17" />
+      <module name="mvvm_rmi" target="17" />
+      <module name="mvvm_sockets" target="17" />
+      <module name="server" target="17" />
+      <module name="session10" target="17" />
+      <module name="session14" target="17" />
+      <module name="session5" target="17" />
+      <module name="session6" target="17" />
+      <module name="solution8_3" target="17" />
+      <module name="solutions5" target="17" />
+      <module name="solutions5 (1) (dk.via)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

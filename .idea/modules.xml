@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/solution8_3/client/client.iml" filepath="$PROJECT_DIR$/solution8_3/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_rmi/mvvm_rmi.iml" filepath="$PROJECT_DIR$/mvvm_rmi/mvvm_rmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm_sockets/mvvm_sockets.iml" filepath="$PROJECT_DIR$/mvvm_sockets/mvvm_sockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sdj2-s23.iml" filepath="$PROJECT_DIR$/.idea/sdj2-s23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution8_3/server/server.iml" filepath="$PROJECT_DIR$/solution8_3/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session10/session10.iml" filepath="$PROJECT_DIR$/session10/session10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session14/session14.iml" filepath="$PROJECT_DIR$/session14/session14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session5/session5.iml" filepath="$PROJECT_DIR$/session5/session5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session6/session6.iml" filepath="$PROJECT_DIR$/session6/session6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution8_3/solution8_3.iml" filepath="$PROJECT_DIR$/solution8_3/solution8_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions5/solutions5.iml" filepath="$PROJECT_DIR$/solutions5/solutions5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solutions6/solutions5 (1) (dk.via).iml" filepath="$PROJECT_DIR$/solutions6/solutions5 (1) (dk.via).iml" />
+    </modules>
+  </component>
+</project>

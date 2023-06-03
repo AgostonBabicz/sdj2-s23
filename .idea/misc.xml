@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mvvm_rmi/pom.xml" />
+        <option value="$PROJECT_DIR$/session5/pom.xml" />
+        <option value="$PROJECT_DIR$/session6/pom.xml" />
+        <option value="$PROJECT_DIR$/session10/pom.xml" />
+        <option value="$PROJECT_DIR$/session14/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions5/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions6/pom.xml" />
+        <option value="$PROJECT_DIR$/solution8_3/pom.xml" />
+        <option value="$PROJECT_DIR$/mvvm_sockets/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="liberica-18" project-jdk-type="JavaSDK" />
+</project>
